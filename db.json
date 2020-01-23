@@ -5,5 +5,9 @@
   "comments": [
     { "id": 1, "body": "this is my coment, have a happy day", "postId": 1 }
   ],
-  "profile": { "name": "cotoflux" }
+  "profile": [{ "name": "cotoflux" }],
+
+  "check":{ "aqui": "va el postman"}
+    
+    
 }
